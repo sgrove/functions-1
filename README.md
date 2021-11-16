@@ -78,3 +78,5 @@ The following types are exported:
 
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on how to set up and work on this repository. Thanks
 for contributing!
+
+Enjoy your day!
